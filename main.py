@@ -42,7 +42,7 @@ specs = handleNonNumericalData(df[[
 price = df['price']
 
 AI = DecisionTreeClassifier()
-AI = AI.fit(specs, price)
+AI = AI.fit(specs.values, price.values)
 
 app = Flask(__name__)
 
