@@ -8,8 +8,6 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-discord==2.3.2
-discord.py==2.3.2
 Flask==3.0.3
 frozenlist==1.4.1
 idna==3.6
@@ -23,11 +21,6 @@ numpy==1.26.4
 pandas==2.2.2
 pefile==2023.2.7
 pillow==10.2.0
-pyFirmata==1.1.0
-pyglet==2.0.15
-pyinstaller==5.11.0
-pyinstaller-hooks-contrib==2023.3
-pymongo==3.13.0
 pyserial==3.5
 python-dateutil==2.9.0.post0
 pytz==2024.1
@@ -41,5 +34,6 @@ soupsieve==2.5
 threadpoolctl==3.5.0
 tzdata==2024.1
 urllib3==2.2.1
+waitress==3.0.0
 Werkzeug==3.0.3
 yarl==1.9.4
