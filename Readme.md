@@ -1,0 +1,1 @@
+Um código simples de Machine Learning que calcula o preço esperado de um carro com base em suas especificações.
